@@ -123,6 +123,7 @@
                 <module>webjars</module>
                 <module>webservices</module>
                 <module>wicket</module>
+                <module>attendance</module>
             </modules>
         </profile>
         <profile>
