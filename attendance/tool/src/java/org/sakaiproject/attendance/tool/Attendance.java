@@ -23,7 +23,6 @@ import org.apache.wicket.request.cycle.IRequestCycleListener;
 import org.apache.wicket.request.cycle.RequestCycle;
 import org.apache.wicket.spring.injection.annot.SpringComponentInjector;
 import org.sakaiproject.attendance.tool.pages.Overview;
-
 /**
  * Main application class for the Attendance Tool. The sakai-wicket-maven-archetype was used to generate the basies for
  * this tool.
