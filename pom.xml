@@ -117,7 +117,8 @@
         <module>webservices</module>
         <module>wicket</module>
         <module>attendance</module>
-        <module>rollcall</module>
+        <!--<module>rollcall</module>-->
+        <module>exampleAppV2</module>
       </modules>
     </profile>
     <profile>
