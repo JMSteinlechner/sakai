@@ -242,7 +242,4 @@
       </modules>
     </profile>
   </profiles>
-  <modules>
-    <module>exampleApp</module>
-  </modules>
 </project>
