@@ -1,3 +1,6 @@
 [submodule "rollcall"]
 	path = rollcall
 	url = https://github.com/JMSteinlechner/rollcall
+[submodule "bbb-tool"]
+	path = bbb-tool
+	url = https://github.com/JMSteinlechner/bbb-tool
