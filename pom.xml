@@ -118,7 +118,7 @@
         <module>wicket</module>
         <module>attendance</module>
         <module>rollcall</module>
-        <module>exampleAppV2</module>
+        <module>bbb-tool</module>
       </modules>
     </profile>
     <profile>
